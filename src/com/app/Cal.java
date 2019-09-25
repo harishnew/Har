@@ -2,9 +2,9 @@ package com.app;
 
 public class Cal 
 {
-public int add(int c,int d)
+public int add(int e,int f)
 {
-	return(c+d);
+	return(e+f);
 }
 }
 
