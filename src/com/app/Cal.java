@@ -4,7 +4,7 @@ public class Cal
 {
 public int add(int r,int f)
 {
-	return(e+f);
+	return(e+r);
 }
 }
 
